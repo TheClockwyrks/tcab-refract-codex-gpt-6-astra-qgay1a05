@@ -1,0 +1,7 @@
+/* Keep the page's fluid canvas sizing authoritative. Simple 2D may pin inline
+   CSS dimensions when the backing size equals the measured size (notably at
+   DPR 1). The engine still owns the backing store, transform and letterbox. */
+#stage {
+  width: 100vw !important;
+  height: 100vh !important;
+}

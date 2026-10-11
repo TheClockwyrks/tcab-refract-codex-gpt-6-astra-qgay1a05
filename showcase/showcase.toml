@@ -1,0 +1,11 @@
+[[media]]
+file = "spectrum.json.gz"
+name = "Three beams, one shared solution"
+
+[[media]]
+file = "bench.png"
+name = "A study in shared light"
+
+[[media]]
+file = "title.png"
+name = "Draw the light"
